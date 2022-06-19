@@ -1,0 +1,19 @@
+{
+  "name": "learning_node",
+  "version": "1.0.0",
+  "description": "Exercises from Oreilly Learning Node book",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magickme/learning_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magickme/learning_node/issues"
+  },
+  "homepage": "https://github.com/magickme/learning_node#readme"
+}
